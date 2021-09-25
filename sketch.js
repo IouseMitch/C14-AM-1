@@ -2,7 +2,7 @@ var Student = {
   name: "Sammy",
   class: 7,
   roll_no:21,
-  favorite_subject: "coding",
+  favorite_subject: "programación",
   marks : [30,35,40,50]
   
 };
